@@ -27,8 +27,7 @@ The reports and analysis contained in this repository are for **informational pu
 
 Data sources include Tickertape.in, MFAPI.in, NSE, BSE, and other publicly available Indian market data providers. Accuracy is not guaranteed.
 
-### Contact
-For permissions or licensing enquiries: ravidigest@gmail.com
+
 
 ---
 
